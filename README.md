@@ -15,11 +15,11 @@
 #### Last read books
 
 <!-- GOODREADS:START -->
+- [Rebellion (Star Force, #3)](https://www.goodreads.com/review/show/3476397305?utm_medium=api&utm_source=rss)
+- [Extinction (Star Force, #2)](https://www.goodreads.com/review/show/3476396438?utm_medium=api&utm_source=rss)
 - [Ryby: Útok z hlubin](https://www.goodreads.com/review/show/3329650629?utm_medium=api&utm_source=rss)
 - [Balónky oběšenců a další hororové příběhy](https://www.goodreads.com/review/show/3328812608?utm_medium=api&utm_source=rss)
 - [Swarm (Star Force, #1)](https://www.goodreads.com/review/show/3276393283?utm_medium=api&utm_source=rss)
-- [Dungeon Deposed 3 (Dungeon Deposed, #3)](https://www.goodreads.com/review/show/3052690156?utm_medium=api&utm_source=rss)
-- [Recursion](https://www.goodreads.com/review/show/3199564428?utm_medium=api&utm_source=rss)
 <!-- GOODREADS:END -->
 
 <!--
