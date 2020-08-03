@@ -15,6 +15,21 @@
 #### Last read books
 
 <!-- GOODREADS:START -->
+- [
+        Šimon added 'Ryby: Útok z hlubin'
+      ](https://www.goodreads.com/review/show/3329650629)
+- [
+        Šimon added 'Balónky oběšenců a další hororové příběhy'
+      ](https://www.goodreads.com/review/show/3328812608)
+- [
+        Šimon added 'Swarm'
+      ](https://www.goodreads.com/review/show/3276393283)
+- [
+        Šimon added 'Recursion'
+      ](https://www.goodreads.com/review/show/3199564428)
+- [
+        Šimon added 'Dark Matter'
+      ](https://www.goodreads.com/review/show/3237396196)
 <!-- GOODREADS:END -->
 
 <!--
