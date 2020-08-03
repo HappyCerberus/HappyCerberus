@@ -15,21 +15,11 @@
 #### Last read books
 
 <!-- GOODREADS:START -->
-- [
-        Šimon added 'Ryby: Útok z hlubin'
-      ](https://www.goodreads.com/review/show/3329650629)
-- [
-        Šimon added 'Balónky oběšenců a další hororové příběhy'
-      ](https://www.goodreads.com/review/show/3328812608)
-- [
-        Šimon added 'Swarm'
-      ](https://www.goodreads.com/review/show/3276393283)
-- [
-        Šimon added 'Recursion'
-      ](https://www.goodreads.com/review/show/3199564428)
-- [
-        Šimon added 'Dark Matter'
-      ](https://www.goodreads.com/review/show/3237396196)
+- [Ryby: Útok z hlubin](https://www.goodreads.com/review/show/3329650629?utm_medium=api&utm_source=rss)
+- [Balónky oběšenců a další hororové příběhy](https://www.goodreads.com/review/show/3328812608?utm_medium=api&utm_source=rss)
+- [Swarm (Star Force, #1)](https://www.goodreads.com/review/show/3276393283?utm_medium=api&utm_source=rss)
+- [Dungeon Deposed 3 (Dungeon Deposed, #3)](https://www.goodreads.com/review/show/3052690156?utm_medium=api&utm_source=rss)
+- [Recursion](https://www.goodreads.com/review/show/3199564428?utm_medium=api&utm_source=rss)
 <!-- GOODREADS:END -->
 
 <!--
