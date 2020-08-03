@@ -5,6 +5,13 @@
 <!-- YOUTUBE_LIVE:START -->
 <!-- YOUTUBE_LIVE:END -->
 
+### Hobbies
+
+#### Last read books
+
+<!-- GOODREADS:START -->
+<!-- GOODREADS:END -->
+
 <!--
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=HappyCerberus&show_icons=true)
 
