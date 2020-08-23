@@ -3,11 +3,11 @@
 #### Recent Youtube Live Coding Videos
 
 <!-- YOUTUBE_LIVE:START -->
+- [Pure Logic Sudoku Solver in C++ | Episode 32 | C++20 cont.](https://www.youtube.com/watch?v=qs7kNE5G6Ls)
 - [Pure Logic Sudoku Solver in C++ | Episode 31 | C++20 cont.](https://www.youtube.com/watch?v=UhhJV4TsJcw)
 - [Pure Logic Sudoku Solver in C++ | Episode 30 | C++20 cont.](https://www.youtube.com/watch?v=mmMSGK9da9o)
 - [Pure Logic Sudoku Solver in C++ | Episode 29 | C++20 cont.](https://www.youtube.com/watch?v=42z1t8BwFcQ)
 - [Pure Logic Sudoku Solver in C++ | Episode 28 | C++20 cont.](https://www.youtube.com/watch?v=sIlTAofJqI4)
-- [Pure Logic Sudoku Solver in C++ | Episode 27 | C++20 cont.](https://www.youtube.com/watch?v=7HCIzoYdcgk)
 <!-- YOUTUBE_LIVE:END -->
 
 ### Hobbies
