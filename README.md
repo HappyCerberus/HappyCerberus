@@ -18,7 +18,7 @@
 - [Dark Matter](https://www.goodreads.com/review/show/3237396196?utm_medium=api&utm_source=rss)
 - [Recursion](https://www.goodreads.com/review/show/3199564428?utm_medium=api&utm_source=rss)
 - [Swarm (Star Force, #1)](https://www.goodreads.com/review/show/3276393283?utm_medium=api&utm_source=rss)
-- [Ryby: Útok z hlubin](https://www.goodreads.com/review/show/3329650629?utm_medium=api&utm_source=rss)
+- [Ryby: Útok z hlubin (Gyo, #1-2)](https://www.goodreads.com/review/show/3329650629?utm_medium=api&utm_source=rss)
 - [Extinction (Star Force, #2)](https://www.goodreads.com/review/show/3476396438?utm_medium=api&utm_source=rss)
 <!-- GOODREADS:END -->
 
