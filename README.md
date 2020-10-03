@@ -3,11 +3,11 @@
 #### Recent Youtube Live Coding Videos
 
 <!-- YOUTUBE_LIVE:START -->
+- [Senior C++ Dev learns Javascript | Ep 03 | Asynchronous operations](https://www.youtube.com/watch?v=VxYZ6Y_pDGo)
+- [Senior C++ Dev learns Javascript | Ep 02 | Typescript](https://www.youtube.com/watch?v=QtsVOVAHyjE)
 - [Senior C++ Dev learns Javascript | Ep 01 | Typescript](https://www.youtube.com/watch?v=okP18N7dBJE)
 - [Interactive Stream Bot in C++/JS | Episode 4 | Exploring alternative solutions for REST / OAUTH](https://www.youtube.com/watch?v=57uAjF1FDeE)
 - [Interactive Stream Bot in C++ | Episode 3 | Second Attempt at Youtube](https://www.youtube.com/watch?v=Y6mWE8CQuG8)
-- [Pure Logic Sudoku Solver in C++ | Episode 36 | wasm UI improvements](https://www.youtube.com/watch?v=ftmvQJjOoTU)
-- [Pure Logic Sudoku Solver in C++ | Episode 35 | wasm UI improvements](https://www.youtube.com/watch?v=exqbUQYD0Sk)
 <!-- YOUTUBE_LIVE:END -->
 
 ### Hobbies
