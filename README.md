@@ -11,11 +11,11 @@ When I'm not streaming, I do love a good (audio)book or a boardgame.
 #### Recent Youtube Live Coding Videos
 
 <!-- YOUTUBE_LIVE:START -->
+- [Interactive Stream Bot in Typescript | Episode 10 | Text to Speech & Youtube chat](https://www.youtube.com/watch?v=arzceM61GO4)
 - [Interactive Stream Bot in Typescript | Episode 9 | Youtube integration](https://www.youtube.com/watch?v=sAsyLO5XjbE)
 - [Interactive Stream Bot in Typescript | Episode 8 | Vue3 & Websockets](https://www.youtube.com/watch?v=4ym4SC4-NVg)
 - [Interactive Stream Bot in Typescript | Episode 7 | OBS Overlay with Vue.js](https://www.youtube.com/watch?v=ZQpJoS1LXAs)
 - [Interactive Stream Bot in Typescript | Episode 6 | Follower / Sub information](https://www.youtube.com/watch?v=6qanh0VQIzw)
-- [Interactive Stream Bot in Typescript | Episode 5 | Proof of concept using Typescript](https://www.youtube.com/watch?v=rD6dTGWvwgQ)
 <!-- YOUTUBE_LIVE:END -->
 
 ### Hobbies
