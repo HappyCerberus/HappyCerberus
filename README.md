@@ -32,3 +32,6 @@ This is a directory for the Daily bit(e) of C++ series posts (starting 2nd Jan 2
 - Best way to manage your dotfiles [Link](https://medium.com/@simontoth/best-way-to-manage-your-dotfiles-2c45bb280049)
 - Save your sanity and time -- Beyond clang-format [Link](https://itnext.io/save-your-sanity-and-time-beyond-clang-format-2b929b9120b8)
 - Simple and consistent C++ Development Environment [Link](https://itnext.io/simple-and-consistent-c-development-environment-c08cf8d93ed9)
+- Error handling in C++ [Link](https://simontoth.substack.com/p/daily-bite-of-c-error-handling)
+- Tree traversal algorithms [Link](https://simontoth.substack.com/p/daily-bite-of-c-tree-traversal-algorithms)
+- Modern documentation C++ tools [Link](https://simontoth.substack.com/p/daily-bite-of-c-modern-documentation)
